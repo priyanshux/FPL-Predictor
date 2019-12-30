@@ -5,4 +5,8 @@ This is going to be a big project. Anyone who has played or plays Fantasy Premie
 
 Having a terrible season till now, and hence the need of this. <br><br>
 
-Feel free if you wish to contribute to it. It's about to begin!
+Feel free if you wish to contribute to it. It's about to begin!<br><br>
+
+Updates:<br>
+bootstrap-static added as per 30-12-2019<br>
+gameweek-live jsons fetched from gw 01 to gw 20. Christmas break now!
