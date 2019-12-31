@@ -13,5 +13,7 @@ TEAM_ENTRY_SUBURL = "entry/"
 PLAYERS_INFO_SUBURL = "bootstrap-static/"
 
 '''
-
+Note: After /drf to /api, env is required for API to work
+USERNAME = ###
+PASSWORD = ###
 '''
