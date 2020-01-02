@@ -18,4 +18,9 @@ USERNAME = ###
 PASSWORD = ###
 '''
 
-
+payload = {
+    'login':USERNAME,
+    'password':PASSWORD,
+    'redirect_uri': 'https://fantasy.premierleague.com/',
+    'app':'plfpl-web'
+}
