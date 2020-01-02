@@ -19,5 +19,3 @@ PASSWORD = ###
 '''
 
 
-while :
-	pass
