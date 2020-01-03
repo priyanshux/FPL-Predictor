@@ -9,4 +9,4 @@ Feel free if you wish to contribute to it. It's about to begin!<br><br>
 
 Updates:<br>
 bootstrap-static added as per 30-12-2019<br>
-gameweek-live jsons fetched till gw 21. (LIV vs SHU remaining)
+gameweek-live jsons fetched till gw 21.
